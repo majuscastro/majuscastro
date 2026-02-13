@@ -2,12 +2,13 @@
 
 ###
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majuscastro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
-
+-->
 <img align="right" height="130" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
 
 ###
@@ -43,7 +44,7 @@
 </div>
 
 ###
-
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/majuscastro/majuscastro/output/snake.svg" alt="Snake animation" />
