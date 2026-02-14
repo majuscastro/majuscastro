@@ -1,15 +1,13 @@
-<h3 align="left">Sistemas de Informação (3/8); <br>Estudante de tecnologia, procurando projetos para experiência! :)<br>💻 Desenvolvimento web e Java.</h3>
+<h3 align="left">Sistemas de Informação (3/8); <br>Estudante de tecnologia, procurando projetos para experiência! :)<br>💻 Desenvolvimento web e Java.</h3> <br>
 
 ###
 
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=majuscastro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
+
 
 ###
--->
-<img align="right" height="130" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
+
+<img align="right" height="200" src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif"  />
 
 ###
 
@@ -27,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+</div> <br>
 
 ###
 
@@ -41,9 +39,13 @@
   <a href="https://www.linkedin.com/in/maria-j%C3%BAlia-schuenck-de-castro-3986793b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
+</div><br>
+
 
 ###
+
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=majuscastro&hide_progress=true)
+
 <!--
 <br clear="both">
 
